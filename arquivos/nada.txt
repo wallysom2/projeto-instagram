@@ -1,0 +1,16 @@
+.box-image{
+    width: 66px;
+    height: 66px;
+    background-image: url('arquivos/stories_background.jpg');
+    background-size: 66px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1px;
+}
+.story img{
+    width: 56px;
+    height: 56px;
+    border-radius: 28px;
+}
